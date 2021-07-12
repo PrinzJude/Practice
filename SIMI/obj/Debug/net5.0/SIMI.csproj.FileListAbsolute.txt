@@ -1,0 +1,16 @@
+C:\Users\Oyedepo\Desktop\Tutorial\SIMI\bin\Debug\net5.0\SIMI.exe
+C:\Users\Oyedepo\Desktop\Tutorial\SIMI\bin\Debug\net5.0\SIMI.deps.json
+C:\Users\Oyedepo\Desktop\Tutorial\SIMI\bin\Debug\net5.0\SIMI.runtimeconfig.json
+C:\Users\Oyedepo\Desktop\Tutorial\SIMI\bin\Debug\net5.0\SIMI.runtimeconfig.dev.json
+C:\Users\Oyedepo\Desktop\Tutorial\SIMI\bin\Debug\net5.0\SIMI.dll
+C:\Users\Oyedepo\Desktop\Tutorial\SIMI\bin\Debug\net5.0\ref\SIMI.dll
+C:\Users\Oyedepo\Desktop\Tutorial\SIMI\bin\Debug\net5.0\SIMI.pdb
+C:\Users\Oyedepo\Desktop\Tutorial\SIMI\obj\Debug\net5.0\SIMI.csproj.AssemblyReference.cache
+C:\Users\Oyedepo\Desktop\Tutorial\SIMI\obj\Debug\net5.0\SIMI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oyedepo\Desktop\Tutorial\SIMI\obj\Debug\net5.0\SIMI.AssemblyInfoInputs.cache
+C:\Users\Oyedepo\Desktop\Tutorial\SIMI\obj\Debug\net5.0\SIMI.AssemblyInfo.cs
+C:\Users\Oyedepo\Desktop\Tutorial\SIMI\obj\Debug\net5.0\SIMI.csproj.CoreCompileInputs.cache
+C:\Users\Oyedepo\Desktop\Tutorial\SIMI\obj\Debug\net5.0\SIMI.dll
+C:\Users\Oyedepo\Desktop\Tutorial\SIMI\obj\Debug\net5.0\ref\SIMI.dll
+C:\Users\Oyedepo\Desktop\Tutorial\SIMI\obj\Debug\net5.0\SIMI.pdb
+C:\Users\Oyedepo\Desktop\Tutorial\SIMI\obj\Debug\net5.0\SIMI.genruntimeconfig.cache
